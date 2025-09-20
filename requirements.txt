@@ -3,3 +3,5 @@ torchao
 transformers
 einops
 gradio
+torchaudio
+soundfile

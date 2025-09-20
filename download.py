@@ -12,4 +12,4 @@ import os
 os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 
 # 拉取仓库（包含 LFS 大文件，会自动断点续传）
-snapshot_download(repo_id="FireRedTeam/FireRedTTS2", local_dir="FireRedTTS2", local_dir_use_symlinks=False)
+snapshot_download(repo_id="FireRedTeam/FireRedTTS2", local_dir="/Users/lizea/PycharmProjects/model/", local_dir_use_symlinks=False)

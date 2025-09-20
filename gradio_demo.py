@@ -356,7 +356,7 @@ def get_args():
 if __name__ == "__main__":
     args = get_args()
     # Initiate model
-    initiate_model(args.pretrained_dir)
+    # initiate_model(args.pretrained_dir)
     print("[INFO] FireRedTTS-2 loaded")
     # UI
     page = render_interface()
