@@ -1,0 +1,27 @@
+https://hf-mirror.com/FireRedTeam/FireRedTTS2/resolve/main/llm_posttrain.pt	
+ gid=a04fa91747c46667
+ dir=.
+ out=llm_posttrain.pt
+ split=4
+ file-allocation=none
+ continue=true
+ max-connection-per-server=4
+ min-split-size=1048576
+https://hf-mirror.com/FireRedTeam/FireRedTTS2/resolve/main/codec.pt	
+ gid=96ca0cd96792d67d
+ dir=.
+ out=codec.pt
+ split=4
+ file-allocation=none
+ continue=true
+ max-connection-per-server=4
+ min-split-size=1048576
+https://hf-mirror.com/FireRedTeam/FireRedTTS2/resolve/main/llm_pretrain.pt	
+ gid=1c5b3fed14c683df
+ dir=.
+ out=llm_pretrain.pt
+ split=4
+ file-allocation=none
+ continue=true
+ max-connection-per-server=4
+ min-split-size=1048576
