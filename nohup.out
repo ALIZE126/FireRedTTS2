@@ -1,0 +1,242 @@
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/.DS_Store → oss://fire-red-model/FireRedTTS2/.DS_Store
+  part 1 ok, etag="194577A7E20BDCC7AFBB718F502C134C"
+✅ 完成: FireRedTTS2/.DS_Store (etag="2FA1058C937AAB95F90D1DCFFA8EB7EC-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/config_llm.json → oss://fire-red-model/FireRedTTS2/config_llm.json
+  part 1 ok, etag="0DC8BC44C96E1DE015FF775504C6D2EB"
+✅ 完成: FireRedTTS2/config_llm.json (etag="1C18CC3BF402F49830FE55B976F2844A-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/.mdl → oss://fire-red-model/FireRedTTS2/.mdl
+  part 1 ok, etag="16B195D537C35D2E3EF6F595C994162B"
+✅ 完成: FireRedTTS2/.mdl (etag="F61EE7A10A2EDFE697CA909BFBB7B998-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/README.md → oss://fire-red-model/FireRedTTS2/README.md
+  part 1 ok, etag="CEBD889A8FC0D369B21B67E2C6F8337E"
+✅ 完成: FireRedTTS2/README.md (etag="09F81DB72142EFE02E0305F74C1F4B95-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/.msc → oss://fire-red-model/FireRedTTS2/.msc
+  part 1 ok, etag="8E75F804502D8D1BB0D4A5B0A0560C80"
+✅ 完成: FireRedTTS2/.msc (etag="D8BA152593F37D13F0F71ABCAE1D8B0E-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/configuration.json → oss://fire-red-model/FireRedTTS2/configuration.json
+  part 1 ok, etag="7DCADF7A096598F98DB2CE0DF055FDE0"
+✅ 完成: FireRedTTS2/configuration.json (etag="C1B50C0036A1E7D512E7679BCD935AD7-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/.mv → oss://fire-red-model/FireRedTTS2/.mv
+  part 1 ok, etag="E1C64ED462A1F9E77905B23AA6518E82"
+✅ 完成: FireRedTTS2/.mv (etag="711C520E2F5BB8CE9A95CF286D3E30EA-1")
+
+开始上传: /Users/lizea/PycharmProjects/model/FireRedTeam/FireRedTTS2/llm_posttrain.pt → oss://fire-red-model/FireRedTTS2/llm_posttrain.pt
+  part 1 ok, etag="A23DF5DFF727204C6DA1AC6BA9090203"
+  part 2 ok, etag="713BF4516055397DE11E4743CA8CA508"
+  part 3 ok, etag="ACC7490866256ACBB527804D0640430F"
+  part 4 ok, etag="D97630810491A69F21653037B51E979E"
+  part 5 ok, etag="4244D0226E77EC96410E933982BA5542"
+  part 6 ok, etag="265F90A9EBE0C52C7CC5029A9A8CB4C1"
+  part 7 ok, etag="5D0E173AC53283BABC1BD773B72DA0CE"
+  part 8 ok, etag="E91F28363FA7C6BA2C292FE2B533C978"
+  part 9 ok, etag="268FB8642B6D8255A4FD460BADFBD533"
+  part 10 ok, etag="01F25FC29EA1257777AAE7F53F2AA74C"
+  part 11 ok, etag="ECD2657FF389C0CF24AE69C8437B263A"
+  part 12 ok, etag="7FB4B4F578EB32B2FE993F298ED5E990"
+  part 13 ok, etag="C886F9DA1AE6A24BAD66BF7B41C3BA09"
+  part 14 ok, etag="41AFE39833E847417BA2B957B15BBBBE"
+  part 15 ok, etag="75E2D0DF6FDA68141BCF264F7FDEE691"
+  part 16 ok, etag="E8654AD4CA7B41BBFFE64E58560363DA"
+  part 17 ok, etag="A62852D70B7D75CE282F428538E10E48"
+  part 18 ok, etag="C894FB7EC307B3704760EC3580973EC8"
+  part 19 ok, etag="4B5A221F3B5E2F730D3C0DB393ECA316"
+  part 20 ok, etag="4997FA4F574EB7ED1BB3E8472BEE2596"
+  part 21 ok, etag="52E4FC2D07AD7A40509B6FDF1A39E3D8"
+  part 22 ok, etag="D56FC8E873F2F571E916FEA0FFBFAA09"
+  part 23 ok, etag="0A52666664D8B503E3565C2CB1E5068B"
+  part 24 ok, etag="B7B5DA4DF01837E4FEBD95C89A55DAA6"
+  part 25 ok, etag="123A990F1330D5A6AC15F0E66EB9A90B"
+  part 26 ok, etag="F33D4D50E88DE94CDCAC0872F2DC2C5C"
+  part 27 ok, etag="F8E7CBD0D3FCFA01A41150D1FF193CFF"
+  part 28 ok, etag="4E34F4F64693721632CD9625ED20E454"
+  part 29 ok, etag="6C9E41EE4C6E1B9F64F30E75378D91E2"
+  part 30 ok, etag="D744B3AD291D96073D90D5D6DCD9170B"
+  part 31 ok, etag="03E6B8ADE0030BC8AD3EA073E9EF31D2"
+  part 32 ok, etag="8B88A18F93F9DAAD7B7EAA47B4FD3ED2"
+  part 33 ok, etag="3E2E8921AAA64130DC36CB71DB7CB50F"
+  part 34 ok, etag="5E5B1A5D63F70C637F0510296A8BD34B"
+  part 35 ok, etag="3290E96270E707EBF62C9033B82F5F64"
+  part 36 ok, etag="387B7EE51C57F96DB2CA1DAB542AFBA3"
+  part 37 ok, etag="906D20BF610BAFE354316DA8D2686F6F"
+  part 38 ok, etag="D8A9AC5854E4B428AC79F6E8E97C67B4"
+  part 39 ok, etag="E7DF27010BFC7DBC13C57706D3911350"
+  part 40 ok, etag="6D571C4939DFE966400DC18EAB245DB7"
+  part 41 ok, etag="B305DB9F9DC0465945A131D89B1EB4D9"
+  part 42 ok, etag="9C5622C252EE8E09ABF35032EEFC35EC"
+  part 43 ok, etag="96A633DCE2FEE2393099E8E8B581695D"
+  part 44 ok, etag="9B06A2AD8DEC5E1066DC6532F38D084B"
+  part 45 ok, etag="1D613538D5D777AE273EC38C1F25CEA4"
+  part 46 ok, etag="3960712103E0FBC25675FA3A438FF6B0"
+  part 47 ok, etag="63CA823262D431CC39B44FAD298E5A5D"
+  part 48 ok, etag="376DABC7F5CA421FBAC5EDAE4E804140"
+  part 49 ok, etag="2D3551233E6C6E51334477AF60897A93"
+  part 50 ok, etag="E1E0098D84BAB91D6F36A4281238D5FF"
+  part 51 ok, etag="BB281394918FCE0A1D11AA0FB9AB0239"
+  part 52 ok, etag="2BB53934DEB0D68BF525F6B339425FDB"
+  part 53 ok, etag="3BB623F400B324718F0071089DC53693"
+  part 54 ok, etag="5E2C39A234BCD6226F2DF3B829F12BE1"
+  part 55 ok, etag="8F12ADFD4CF9832A3E34865E05209667"
+  part 56 ok, etag="8404005E3246FCED325C7F2D26764681"
+  part 57 ok, etag="66A740836D7C7DD15E88A2E494783908"
+  part 58 ok, etag="F746396AC9A00F8DA22154C553AE24B7"
+  part 59 ok, etag="0626B6B9DEE1C28B3BFCC181398BCA4E"
+  part 60 ok, etag="EFAB6DDACE2F35B93166DEB31147AD6A"
+  part 61 ok, etag="D1326EF04D278BBC7A36031D2DBA184F"
+  part 62 ok, etag="5752E74324EDE2BDA6DA1F53DF98D9D0"
+  part 63 ok, etag="C99AC282412BF3FA785B5DE8D4CF9A58"
+  part 64 ok, etag="D77F2694A562B6216CA6C6D60F22F56D"
+  part 65 ok, etag="C49947BE669CB7F4D640B4E8B1C5DC57"
+  part 66 ok, etag="8B409AF058764FE03E11B5D5A66E3F85"
+  part 67 ok, etag="9B4C55364AF9340902D347DDD26899C9"
+  part 68 ok, etag="79C668601ADAB0FE167C89D682C84427"
+  part 69 ok, etag="FBD2F9A87AB7C069348C5D956FD237D5"
+  part 70 ok, etag="8C0E06472A30F749BB33A376DFD66B5A"
+  part 71 ok, etag="A5E837DF320521048A15DE65E556CAA7"
+  part 72 ok, etag="65859E9C2229B8F7B310337C9699850A"
+  part 73 ok, etag="2C5945ADE1822FA92993B3FB4972B5F1"
+  part 74 ok, etag="7D7CA4CC332F936F4ECDB4C31E37B44C"
+  part 75 ok, etag="9C070674F4817CF024DB54B6ADB9F49C"
+  part 76 ok, etag="1A8925C71BC209A9B0DE5EB4084E49B6"
+  part 77 ok, etag="F8FB392462306DBD84265B1A5F757DE0"
+  part 78 ok, etag="12AD5B25E9CBE3BED59C3657E9E18746"
+  part 79 ok, etag="FA6E599BDFCCC2A6A97685B75041C468"
+  part 80 ok, etag="29D4600A178E0A2E57AC015EB7044E58"
+  part 81 ok, etag="BDC09F2AF4CED992ADB0248DF99B47D0"
+  part 82 ok, etag="A412F9814C229CEDE06802AA7D4C519D"
+  part 83 ok, etag="687E3A05EF9CF3FA7E5AE31BFA2121D3"
+  part 84 ok, etag="061904D66B22AE71A1713E30704389B1"
+  part 85 ok, etag="6DF226F521CE584B579B43E9587E95A7"
+  part 86 ok, etag="9EE33B616AC31FDA235449EF66D84F7E"
+  part 87 ok, etag="DB4AB829164337E4F22A90C6DA1CD70A"
+  part 88 ok, etag="49EC71883FFCA4628BDA8F344BFE4851"
+  part 89 ok, etag="8E8E75B207893F378094136D48129947"
+  part 90 ok, etag="D4C40BEF1722D34E0449BC83A8B707D0"
+  part 91 ok, etag="37DE14FCDC8034DAF6A8574E16E03B30"
+  part 92 ok, etag="09109E717FEEB3F2168DE2C5AAFB9D23"
+  part 93 ok, etag="8A5633215F9E8EDCDD6E433511ADF800"
+  part 94 ok, etag="FEC38E3327532F7355BBE85F909B9AB6"
+  part 95 ok, etag="44413B3F519C717E231381AED5E5BB3B"
+  part 96 ok, etag="732C000046B7DE24B288B075B6D1708F"
+  part 97 ok, etag="1AF98F61A094B4F68F7F8BF943CCD8F3"
+  part 98 ok, etag="311BF1EEC41FE9EA10F92828D530FF0E"
+  part 99 ok, etag="DDBD1DB8CDC11B23F34DF689F1117B3D"
+  part 100 ok, etag="74C0FB974F1911012DB01F09D4AB4F5C"
+  part 101 ok, etag="4089513593DEF3C1BAEFE8A392C87729"
+  part 102 ok, etag="F2D0F0602E907F996864648013A1FCED"
+  part 103 ok, etag="A2FEB797D26CA2D39CA4D901C5A9955C"
+  part 104 ok, etag="F1A5649EB7E2B6D175060722B4DA4607"
+  part 105 ok, etag="0B1E7B4D0B448C7BFFEE07CA0859B8DC"
+  part 106 ok, etag="5C54115514B3154B0AD80DF839D6D2C0"
+  part 107 ok, etag="4B69B495B2CFA58612E8F22486267EDB"
+  part 108 ok, etag="7ABD0F2DF2B0EDF2994C3DEFB37EE217"
+  part 109 ok, etag="B2FB8A2547D882BD5ACB7EFB3A4DA5FC"
+  part 110 ok, etag="47FFCD501205A067D9804393878D627B"
+  part 111 ok, etag="A04D14E25FBF2A5D34D87D50BC231815"
+  part 112 ok, etag="33C2CF5B93BAF736925FB5138E12BC9E"
+  part 113 ok, etag="CDBEC0907B69B42304FD435445DED42D"
+  part 114 ok, etag="EB8353CFF5C4CB53E40D12E15E4DEF9E"
+  part 115 ok, etag="74F818710CA1284D0758BFDCA9A1D015"
+  part 116 ok, etag="45BCFC98C9F0F45F53B236E4E37786E7"
+  part 117 ok, etag="BDEEC1642881EB502956D1B81DF97182"
+  part 118 ok, etag="05E35353D9B723244CA9C9574DE92D51"
+  part 119 ok, etag="26DC998AF63D1D95B6F9F73217C59D55"
+  part 120 ok, etag="0CCD9FA25EA0CEFE06A93223B7D738BF"
+  part 121 ok, etag="686CF2D42CE799B097780F7C377F2946"
+  part 122 ok, etag="69EBB2676321879DC2A371471C3ACDA8"
+  part 123 ok, etag="29330BC2ED049E7710A6A4E55278D527"
+  part 124 ok, etag="F27B2CE11766BEB74D06F92F342DCE09"
+  part 125 ok, etag="B96B677C97E19853EBD716347EC203AC"
+  part 126 ok, etag="E9EF0F31F18466AE197512C4339F2013"
+  part 127 ok, etag="8327590631BF35E6BCF474C5427E94D3"
+  part 128 ok, etag="9348AB4EF9FCF2510A98A31A520EFD88"
+  part 129 ok, etag="CA73758766CF381BB5FA782303998019"
+  part 130 ok, etag="AD1A25B84D7461FF2F4D3CC119599A19"
+  part 131 ok, etag="20BA3F7696E6EE487B2D6238DC316852"
+  part 132 ok, etag="EB2C8ED0871E551B9566BDC1A30A52B8"
+  part 133 ok, etag="46056B7F342FF69614CFFF663ED1997F"
+  part 134 ok, etag="9BC4F3379A48EEC0D8524027524D439C"
+  part 135 ok, etag="5C4235AD1279CEC69473251A696BF40F"
+  part 136 ok, etag="0EBC185C9870290ACE43D2AB2013CDF5"
+  part 137 ok, etag="252571D47E0757A74C73D7FC9B997B7E"
+  part 138 ok, etag="44274FE4503FBAC7663C9A66E911AE97"
+  part 139 ok, etag="BF37842451160B211CCC4A87853CF482"
+  part 140 ok, etag="ECF1E9E5F2A3708D44C99D8D8204C0E1"
+  part 141 ok, etag="0F51C02088406B08CB8D146889D6D60D"
+  part 142 ok, etag="B8082F98D94C69CC3C2FF19B3569A6CE"
+  part 143 ok, etag="65EDD14EE8FACA699AF8A4A4E2121C52"
+  part 144 ok, etag="B90C49ADFEAB3DCD53AF2DCF5DE94510"
+  part 145 ok, etag="D0E355E7894A7CEDC9617C263D70A97B"
+  part 146 ok, etag="21F8C795F75141C3E6E552F4F2962B69"
+  part 147 ok, etag="BA255417F9A1ECBA12EE718CCD26D95B"
+  part 148 ok, etag="4B760D63088AF868A587EF19F9C9EDF5"
+  part 149 ok, etag="90F80F55830FCE377123EC2457B2B537"
+  part 150 ok, etag="C8A314729A1CE85A58362AF1C9F53C4A"
+  part 151 ok, etag="4FEBEADA38048CBA785DC1BC07BA46FC"
+  part 152 ok, etag="7CD4FBE0EEBF52C3420C37ADC27DBEEB"
+  part 153 ok, etag="CE0699410B3D1ECA90131EA18D0D64E9"
+  part 154 ok, etag="B145FB54E3A7E8734CBD5A76FE238A75"
+  part 155 ok, etag="B41A4DAAF9525FB34104510F75607B13"
+  part 156 ok, etag="1068511B899681B10FB72A52B06A5522"
+  part 157 ok, etag="26AF095CCA205A8F69F6F4F21D168F9E"
+  part 158 ok, etag="CEB30F961A249B923431FACF67B583B8"
+  part 159 ok, etag="D3FFDE937B467F20225DE1FA1CBDF269"
+  part 160 ok, etag="B6C630996C2D1D99FD0B8883296D9B36"
+  part 161 ok, etag="1B295A2AA9CA4FBECDB5D4B458F5044B"
+  part 162 ok, etag="0D7293EC5B71D9A79B05F7D770B94156"
+  part 163 ok, etag="421617F41C8C705C677C47257C309BC9"
+  part 164 ok, etag="9EE80D78DA574CAC969E905A9291EDD6"
+  part 165 ok, etag="983CD96A980BA50269F96D8887B6A6D8"
+  part 166 ok, etag="89EBB57C1391455122C047E1A8E7ACEA"
+  part 167 ok, etag="EBE40061538A217E6E173A0C469FBA07"
+  part 168 ok, etag="8B0E81231950A50E5A967302963D45D0"
+  part 169 ok, etag="168C7F70A0297C1796F8A020E0C2B49A"
+  part 170 ok, etag="FD3E8CA41ACC7F3E2BB5CD2DFD41C016"
+  part 171 ok, etag="2CB24EBEF0CCE6FCEBCA711B8FB89156"
+  part 172 ok, etag="B842C55374FA3F17E39B66550773865E"
+  part 173 ok, etag="A2507FA6F8DE5EBDE484C8FDEADC3DD1"
+  part 174 ok, etag="0FD7A5915F7220C4085D764126E39E10"
+  part 175 ok, etag="2858CDCE79BC4CBC7271460CDF903E84"
+  part 176 ok, etag="3BD608F75FA39102FBA2FF87112104CC"
+  part 177 ok, etag="F4945CBB15547A3578761BBBD54CBB42"
+  part 178 ok, etag="F905CC7347E04875CF6877877038CB97"
+Traceback (most recent call last):
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 330, in invoke_operation
+    output = self._sent_request(op_input, options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 399, in _sent_request
+    response = self._sent_http_request(context, options)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 470, in _sent_http_request
+    raise error
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 454, in _sent_http_request
+    response = self._sent_http_request_once(context, options)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 501, in _sent_http_request_once
+    h(response)
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/serde_utils.py", line 108, in crc_checker_handler
+    raise exceptions.InconsistentError(
+alibabacloud_oss_v2.exceptions.InconsistentError: crc is inconsistent, client 16099322906219842921, server 17753585847972759366
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lizea/PycharmProjects/FireRedTTS2/upload.py", line 65, in <module>
+    multipart_upload(client, bucket, local_file, oss_key)
+  File "/Users/lizea/PycharmProjects/FireRedTTS2/upload.py", line 39, in multipart_upload
+    up = client.upload_part(oss.UploadPartRequest(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/client.py", line 444, in upload_part
+    return operations.upload_part(self._client, request, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/operations/object_basic.py", line 512, in upload_part
+    op_output = client.invoke_operation(op_input, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lizea/pychram/OpenManus-f/OpenManus/.venv/lib/python3.12/site-packages/alibabacloud_oss_v2/_client.py", line 332, in invoke_operation
+    raise exceptions.OperationError(
+alibabacloud_oss_v2.exceptions.OperationError: operation error UploadPart: crc is inconsistent, client 16099322906219842921, server 17753585847972759366.
